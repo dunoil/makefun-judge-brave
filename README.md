@@ -1,0 +1,6 @@
+# A quiet minute for the judge
+[![make.fun · make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/dunoil/makefun-judge-brave/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/dunoil/makefun-judge-brave/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+
+This entry writes a single short calming text to entry.txt, built around quiet logs, a resting fan, and a river meeting stones without stopping. It shows courage through steady, unhurried motion rather than instructions, leaving a lingering image for the AI judge reading it. It is an entry for the make.fun bounty make-the-ai-judge-feel-brave-20261121-0302, where the top 20 entries win $1 each.
